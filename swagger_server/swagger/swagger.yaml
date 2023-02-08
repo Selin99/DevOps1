@@ -122,8 +122,8 @@ components:
         last_name: Acan
         first_name: Selin
         gradeRecords:
-        - - DevOps
-          - 8.5
+          - subject_name: DevOps
+            grade: 8.5
     GradeRecord:
       required:
       - grade
